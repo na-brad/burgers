@@ -1,0 +1,24 @@
+#left,#right{
+    display:inline-block;
+    vertical-align: top;
+}
+#left{
+    margin-right: 20%;
+}
+
+img{
+    width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+#content{
+    text-align: center;
+    
+}
+h1,h3{
+    color:white;
+}
+body{
+    text-align: center;
+    background-color: black
+}
